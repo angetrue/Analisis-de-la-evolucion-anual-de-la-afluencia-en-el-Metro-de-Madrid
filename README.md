@@ -1,2 +1,7 @@
-# Analisis-de-la-evolucion-anual-de-la-afluencia-en-el-metro-de-Madrid
-Repositorio de código, gráficos y mapas interactivos del trabajo de fin de máster titulado "Análisis de la evolución anual de la afluencia en el metro de Madrid"
+# Análisis de la evolución anual de la afluencia en el Metro de Madrid
+
+Este repositorio contiene diversos recursos utilizados y obtenidos en la realización del trabajo de fin de máster titulado "Análisis de la evolución anual de la afluencia en el Metro de Madrid". Dicho proyecto se corresponde con la entrega final del Máster en Ciencia de Datos e Inteligencia de Negocios de la Universidad Complutense de Madrid, siendo entregado en Septiembre de 2025 por Ángela Trueba Fernández, en colaboración con Manuel Méndez Hurtado y Manuel Núñez García como tutores del trabajo.
+
+En primer lugar, se podrán encontrar dos muestras de las bases de datos utilizadas en el estudio. Una de ellas contiene la información sobre la demanda anual de las estaciones de metro. La otra, por su parte, aporta la información sobre la pertenencia a las líneas y coordenadas geográficas de las estaciones. Pueden encontrarse también los códigos de R y Python generados para el proyecto, siendo el primero de estos el que contiene la mayoría de los procesos (el de Python contiene el código para dibujar uno de los mapas interactivos).
+
+Por otro lado, se han adjuntado en formato .html los gráficos interactivos empleados durante el análisis, para que los lectores puedan jugar a su gusto con las tendencias de estaciones y líneas. Por último, se han añadido al repositorio los mapas interactivos (también en formato .html) de la ciudad y la demanda.
